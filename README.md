@@ -10,7 +10,6 @@ But I'm also...
 🧑‍🏫 Trilingual (Portuguese (native), English and Japanese)<br>
 🧬 Bioinformatics enthusiast<br>
 📊 Data lover<br>
-🧙‍♂️ Sci-fi and Fantasy lunatic<br>
 🩰 A Dancer!<br>
 
 I'm passionate about the applications of machine learning to healthcare, and here are my favorite technologies...
